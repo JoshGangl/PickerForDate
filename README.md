@@ -2,7 +2,7 @@
 #PickerForDate
 
 ---
-This repository is for Lab 3 submission.
+This repository is for Lab 4 submission.
 
 - Udacity’s Android Basics - PickerForDate App
 
